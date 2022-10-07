@@ -75,5 +75,11 @@ article ul li{
     transition: .5s;
 }
 #redes a img:hover{
+    transform: scale(1.3);
+}
+#foto img{
+    transition: .5s;
+}
+#foto img:hover{
     transform: scale(1.1);
 }
