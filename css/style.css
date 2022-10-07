@@ -71,3 +71,9 @@ article ul li{
 #fila #foto img{
     height: 680px;
 }
+#redes a img{
+    transition: .5s;
+}
+#redes a img:hover{
+    transform: scale(1.1);
+}
